@@ -28,7 +28,14 @@ function Footer() {
           </ul>
         </div>
       </div>
-      {/* ...existing code... */}
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', marginTop: '24px' }}>
+        <a href="/week08.pdf" target="_blank" rel="noopener noreferrer">
+          <button type="button">8</button>
+        </a>
+        <a href="/answers.pdf" target="_blank" rel="noopener noreferrer">
+          <button type="button">answers</button>
+        </a>
+      </div>
       <div className="copyright">
         © SDM Polytechnic. All Rights Reserved. | Powered by SDMES
       </div>
