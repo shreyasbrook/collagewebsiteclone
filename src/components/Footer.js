@@ -29,7 +29,7 @@ function Footer() {
         </div>
       </div>
       <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', marginTop: '24px' }}>
-        <a href="/week08.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/Week08.pdf" target="_blank" rel="noopener noreferrer">
           <button type="button">8</button>
         </a>
         <a href="/answers.pdf" target="_blank" rel="noopener noreferrer">
